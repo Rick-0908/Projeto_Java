@@ -12,7 +12,7 @@ public class Atividade08 {
         int div = n1 / n2;
         System.out.println("Seu resultado inteiro deu: " +div);
 
-        double div2 = div/2;
+        double div2 = (double)div/2;
         System.out.println("A divisão de resto foi: "+div2);
 
     }

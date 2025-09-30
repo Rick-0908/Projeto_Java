@@ -1,6 +1,5 @@
 package Lista02;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Atividade01 {
