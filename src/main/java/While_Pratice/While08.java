@@ -1,4 +1,4 @@
-package While_Pratice_01.Lista01;
+package While_Pratice;
 
 import java.util.Random;
 import java.util.Scanner;

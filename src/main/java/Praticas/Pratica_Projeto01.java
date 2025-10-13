@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class Lista01 {
+public class Pratica_Projeto01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] Equipamento = {"Capacete - 1", "Luvas - 2", "Botas - 3", "Cinto - 4"};
