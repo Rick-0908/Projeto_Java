@@ -1,4 +1,4 @@
-package Atv19_Vetores;
+package Atividades_Listas_Senai.Atv19_Vetores;
 
 import java.util.Arrays;
 import java.util.Scanner;
